@@ -1,0 +1,9 @@
+{
+  "usbVendorID": 12951,
+  "usbProductID": 6505,
+  "monitorNameContains": "AW3425DW",
+  "inputCode": 18,
+  "inputName": "HDMI 2",
+  "settleDelaySeconds": 0.8,
+  "wakeSuppressionSeconds": 8
+}
